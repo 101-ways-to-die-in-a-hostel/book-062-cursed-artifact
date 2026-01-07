@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A compulsive souvenir collector buys an antique jade figurine from a Moroccan night market, not realizing it's a soul vessel that gradually drains the life force of its owner over seven days.",
     "long": ""
   },
   "death_type": "Cursed Artifact",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "You get what you pay for. And then some."
 }
